@@ -1,5 +1,5 @@
 ###############################################################################
-# Creating random data and a correlated response                              # 
+# Creating random data and ag correlated response                              # 
 # Author, 2020                                                                # 
 ###############################################################################
 # Import biogas data which previously was joined EKS with LfU by 
